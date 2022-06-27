@@ -8,7 +8,9 @@ Console.WriteLine("input a  ");
        int namberA = Convert.ToInt32(Console.ReadLine());
        if (namberA % 2==0)
        {
-       Console.Write(namberA + "  -> " + "да");
+       Console.Write(namberA + "  -> " + "да")
+       
        }
        else{
        Console.Write(namberA + "  -> " + "нет");}
+       
