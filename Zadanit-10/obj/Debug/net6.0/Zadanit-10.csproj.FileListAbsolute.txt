@@ -1,0 +1,15 @@
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\Zadanit-10.exe
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\Zadanit-10.deps.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\Zadanit-10.runtimeconfig.json
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\Zadanit-10.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\ref\Zadanit-10.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\bin\Debug\net6.0\Zadanit-10.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.csproj.AssemblyReference.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.AssemblyInfoInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.AssemblyInfo.cs
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\ref\Zadanit-10.dll
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.pdb
+C:\Users\Константин\Dropbox\ПК\Documents\РАЗРАБОТЧИК\HoumWorkC-\Zadanit-10\obj\Debug\net6.0\Zadanit-10.genruntimeconfig.cache
